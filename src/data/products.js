@@ -1,0 +1,80 @@
+export const LIFESTYLE_PRODUCTS = [
+  {
+    id: 'prod-1',
+    name: 'Cast Brass Incense Burner & Sandalwood Cones',
+    category: 'Home Fragrance',
+    price: 1499,
+    originalPrice: 1899,
+    rating: 4.9,
+    reviewsCount: 142,
+    image: 'https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&w=800&q=80',
+    description: 'Handcrafted solid brass burner with 20 artisan-pressed pure Mysore sandalwood cones.',
+    badge: 'Best Seller',
+    inStock: true
+  },
+  {
+    id: 'prod-2',
+    name: 'Cold-Pressed Botanical Room Mist (Cedar & Sage)',
+    category: 'Aromatherapy',
+    price: 849,
+    originalPrice: 1100,
+    rating: 4.8,
+    reviewsCount: 89,
+    image: 'https://images.unsplash.com/photo-1602928321679-560bb453f190?auto=format&fit=crop&w=800&q=80',
+    description: '100% plant-derived mood elevating mist with pure steam-distilled Himalayan cedarwood.',
+    badge: 'Organic',
+    inStock: true
+  },
+  {
+    id: 'prod-3',
+    name: 'Architectural Ceramic Coffee Mug Set (Pair)',
+    category: 'Tableware',
+    price: 1290,
+    originalPrice: 1550,
+    rating: 4.9,
+    reviewsCount: 215,
+    image: 'https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80',
+    description: 'Matte stoneware mugs with ergonomic thumb rest and balanced heat retention.',
+    badge: 'Handmade',
+    inStock: true
+  },
+  {
+    id: 'prod-4',
+    name: 'Woven Belgian Flax Linen Throw Blanket',
+    category: 'Textiles',
+    price: 2999,
+    originalPrice: 3800,
+    rating: 5.0,
+    reviewsCount: 64,
+    image: 'https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=800&q=80',
+    description: 'Pre-washed breathable flax linen with eyelash fringe, dyed using natural botanical pigments.',
+    badge: 'Editor Pick',
+    inStock: true
+  },
+  {
+    id: 'prod-5',
+    name: 'Walnut & Matte Black Minimal Desk Organizer',
+    category: 'Workspace',
+    price: 1699,
+    originalPrice: 2200,
+    rating: 4.7,
+    reviewsCount: 110,
+    image: 'https://images.unsplash.com/photo-1586075010923-2dd4570fb338?auto=format&fit=crop&w=800&q=80',
+    description: 'Precision milled solid American walnut tray with concealed cable channels and stylus dock.',
+    badge: 'Popular',
+    inStock: true
+  },
+  {
+    id: 'prod-6',
+    name: 'Cold-Pressed Wild Almond & Jojoba Body Elixir',
+    category: 'Wellness',
+    price: 1150,
+    originalPrice: 1400,
+    rating: 4.9,
+    reviewsCount: 78,
+    image: 'https://images.unsplash.com/photo-1608248597359-3b95764d2e82?auto=format&fit=crop&w=800&q=80',
+    description: 'Lightweight, rapid-absorbing dry oil enriched with cold-pressed Kashmir wild almond oil.',
+    badge: 'New',
+    inStock: true
+  }
+];
